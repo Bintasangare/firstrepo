@@ -1,2 +1,2 @@
-ec2instance route53
+ec2instance route53 testDemo
 
